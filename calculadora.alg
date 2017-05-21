@@ -9,6 +9,8 @@ escreva ("Número 2 ")
 leia (Numero2)
 escreva ("Escreva Operação ")
 leia (o)
+//oi
+
 se (o = "adição" ) entao
    R <- Numero1 + Numero2
    escreva ("O resultado é ", R)
